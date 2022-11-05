@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <Layout>
       <div className='bg-scheme-lighter text-scheme w-64 h-64 p-4 rounded-xl shadow-md'>
-        Hello There changed! Yes.
+        Hello There changed! Yes. Again.
       </div>
     </Layout>
 
