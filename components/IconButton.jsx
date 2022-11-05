@@ -1,8 +1,7 @@
-
-
-export function IconButton({icon f}) {
+export function IconButton({icon}) {
   return (
     <button>
+      Hello
     </button>
   );
 }
